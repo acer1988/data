@@ -1,0 +1,14 @@
+<div class="custom-thumbnail">
+                      <img src="images/person_1.jpg" alt="Image" class="img-fluid">
+                    </div>
+                    <div class="post-content">
+                      <h3>How the gut microbes you're born with affect your lifelong health</h3>
+                      <div class="post-meta"><span>Posted:</span> Dec 17, 2019</div>
+                    </div>
+ <div class="custom-thumbnail">
+                      <img src="images/person_2.jpg" alt="Image" class="img-fluid">
+                    </div>
+                    <div class="post-content">
+                      <h3>How the gut microbes you're born with affect your lifelong health</h3>
+                      <div class="post-meta"><span>Posted:</span> Dec 17, 2019</div>
+                    </div>
